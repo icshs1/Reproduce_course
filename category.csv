@@ -1,0 +1,899 @@
+,x
+1,   high surf advisory
+2, coastal flood
+3, flash flood
+4, lightning
+5, tstm wind
+6, tstm wind (g45)
+7, waterspout
+8, wind
+9,?
+10,abnormal warmth
+11,abnormally dry
+12,abnormally wet
+13,accumulated snowfall
+14,agricultural freeze
+15,apache county
+16,astronomical high tide
+17,astronomical low tide
+18,avalance
+19,avalanche
+20,beach erosin
+21,beach erosion
+22,beach erosion/coastal flood
+23,beach flood
+24,below normal precipitation
+25,bitter wind chill
+26,bitter wind chill temperatures
+27,black ice
+28,blizzard
+29,blizzard and extreme wind chil
+30,blizzard and heavy snow
+31,blizzard summary
+32,blizzard weather
+33,blizzard/freezing rain
+34,blizzard/heavy snow
+35,blizzard/high wind
+36,blizzard/winter storm
+37,blow-out tide
+38,blow-out tides
+39,blowing dust
+40,blowing snow
+41,blowing snow- extreme wind chi
+42,blowing snow & extreme wind ch
+43,blowing snow/extreme wind chil
+44,breakup flooding
+45,brush fire
+46,brush fires
+47,coastal  flooding/erosion
+48,coastal erosion
+49,coastal flood
+50,coastal flooding
+51,coastal flooding/erosion
+52,coastal storm
+53,coastal surge
+54,coastal/tidal flood
+55,coastalflood
+56,coastalstorm
+57,cold
+58,cold air funnel
+59,cold air funnels
+60,cold air tornado
+61,cold and frost
+62,cold and snow
+63,cold and wet conditions
+64,cold temperature
+65,cold temperatures
+66,cold wave
+67,cold weather
+68,cold wind chill temperatures
+69,cold/wind chill
+70,cold/winds
+71,cool and wet
+72,cool spell
+73,cstl flooding/erosion
+74,dam break
+75,dam failure
+76,damaging freeze
+77,deep hail
+78,dense fog
+79,dense smoke
+80,downburst
+81,downburst winds
+82,driest month
+83,drifting snow
+84,drought
+85,drought/excessive heat
+86,drowning
+87,dry
+88,dry conditions
+89,dry hot weather
+90,dry microburst
+91,dry microburst 50
+92,dry microburst 53
+93,dry microburst 58
+94,dry microburst 61
+95,dry microburst 84
+96,dry microburst winds
+97,dry mircoburst winds
+98,dry pattern
+99,dry spell
+100,dry weather
+101,dryness
+102,dust devel
+103,dust devil
+104,dust devil waterspout
+105,dust storm
+106,dust storm/high winds
+107,duststorm
+108,early freeze
+109,early frost
+110,early rain
+111,early snow
+112,early snowfall
+113,erosion/cstl flood
+114,excessive
+115,excessive cold
+116,excessive heat
+117,excessive heat/drought
+118,excessive precipitation
+119,excessive rain
+120,excessive rainfall
+121,excessive snow
+122,excessive wetness
+123,excessively dry
+124,extended cold
+125,extreme cold
+126,extreme cold/wind chill
+127,extreme heat
+128,extreme wind chill
+129,extreme wind chill/blowing sno
+130,extreme wind chills
+131,extreme windchill
+132,extreme windchill temperatures
+133,extreme/record cold
+134,extremely wet
+135,falling snow/ice
+136,first frost
+137,first snow
+138,flash flood
+139,flash flood - heavy rain
+140,flash flood from ice jams
+141,flash flood landslides
+142,flash flood winds
+143,flash flood/
+144,flash flood/ flood
+145,flash flood/ street
+146,flash flood/flood
+147,flash flood/heavy rain
+148,flash flood/landslide
+149,flash flooding
+150,flash flooding/flood
+151,flash flooding/thunderstorm wi
+152,flash floods
+153,flash floooding
+154,flood
+155,flood & heavy rain
+156,flood flash
+157,flood flood/flash
+158,flood watch/
+159,flood/flash
+160,flood/flash flood
+161,flood/flash flooding
+162,flood/flash/flood
+163,flood/flashflood
+164,flood/rain/wind
+165,flood/rain/winds
+166,flood/river flood
+167,flood/strong wind
+168,flooding
+169,flooding/heavy rain
+170,floods
+171,fog
+172,fog and cold temperatures
+173,forest fires
+174,freeze
+175,freezing drizzle
+176,freezing drizzle and freezing
+177,freezing fog
+178,freezing rain
+179,freezing rain and sleet
+180,freezing rain and snow
+181,freezing rain sleet and
+182,freezing rain sleet and light
+183,freezing rain/sleet
+184,freezing rain/snow
+185,freezing spray
+186,frost
+187,frost/freeze
+188,frost\freeze
+189,funnel
+190,funnel cloud
+191,funnel cloud.
+192,funnel cloud/hail
+193,funnel clouds
+194,funnels
+195,glaze
+196,glaze ice
+197,glaze/ice storm
+198,gradient wind
+199,gradient winds
+200,grass fires
+201,ground blizzard
+202,gustnado
+203,gustnado and
+204,gusty lake wind
+205,gusty thunderstorm wind
+206,gusty thunderstorm winds
+207,gusty wind
+208,gusty wind/hail
+209,gusty wind/hvy rain
+210,gusty wind/rain
+211,gusty winds
+212,hail
+213,hail 0.75
+214,hail 0.88
+215,hail 075
+216,hail 088
+217,hail 1.00
+218,hail 1.75
+219,hail 1.75)
+220,hail 100
+221,hail 125
+222,hail 150
+223,hail 175
+224,hail 200
+225,hail 225
+226,hail 275
+227,hail 450
+228,hail 75
+229,hail 80
+230,hail 88
+231,hail aloft
+232,hail damage
+233,hail flooding
+234,hail storm
+235,hail(0.75)
+236,hail/icy roads
+237,hail/wind
+238,hail/winds
+239,hailstorm
+240,hailstorms
+241,hard freeze
+242,hazardous surf
+243,heat
+244,heat drought
+245,heat wave
+246,heat wave drought
+247,heat waves
+248,heat/drought
+249,heatburst
+250,heavy lake snow
+251,heavy mix
+252,heavy precipatation
+253,heavy precipitation
+254,heavy rain
+255,heavy rain and flood
+256,heavy rain and wind
+257,heavy rain effects
+258,heavy rain/flooding
+259,heavy rain/high surf
+260,heavy rain/lightning
+261,heavy rain/mudslides/flood
+262,heavy rain/severe weather
+263,heavy rain/small stream urban
+264,heavy rain/snow
+265,heavy rain/urban flood
+266,heavy rain/wind
+267,heavy rain; urban flood winds;
+268,heavy rainfall
+269,heavy rains
+270,heavy rains/flooding
+271,heavy seas
+272,heavy shower
+273,heavy showers
+274,heavy snow
+275,heavy snow-squalls
+276,heavy snow   freezing rain
+277,heavy snow & ice
+278,heavy snow and
+279,heavy snow and high winds
+280,heavy snow and ice
+281,heavy snow and ice storm
+282,heavy snow and strong winds
+283,heavy snow andblowing snow
+284,heavy snow shower
+285,heavy snow squalls
+286,heavy snow/blizzard
+287,heavy snow/blizzard/avalanche
+288,heavy snow/blowing snow
+289,heavy snow/freezing rain
+290,heavy snow/high
+291,heavy snow/high wind
+292,heavy snow/high winds
+293,heavy snow/high winds & flood
+294,heavy snow/high winds/freezing
+295,heavy snow/ice
+296,heavy snow/ice storm
+297,heavy snow/sleet
+298,heavy snow/squalls
+299,heavy snow/wind
+300,heavy snow/winter storm
+301,heavy snowpack
+302,heavy surf
+303,heavy surf and wind
+304,heavy surf coastal flooding
+305,heavy surf/high surf
+306,heavy swells
+307,heavy wet snow
+308,high
+309,high  swells
+310,high  winds
+311,high seas
+312,high surf
+313,high surf advisories
+314,high surf advisory
+315,high swells
+316,high temperature record
+317,high tides
+318,high water
+319,high waves
+320,high wind
+321,high wind (g40)
+322,high wind 48
+323,high wind 63
+324,high wind 70
+325,high wind and heavy snow
+326,high wind and high tides
+327,high wind and seas
+328,high wind damage
+329,high wind/ blizzard
+330,high wind/blizzard
+331,high wind/blizzard/freezing ra
+332,high wind/heavy snow
+333,high wind/low wind chill
+334,high wind/seas
+335,high wind/wind chill
+336,high wind/wind chill/blizzard
+337,high winds
+338,high winds 55
+339,high winds 57
+340,high winds 58
+341,high winds 63
+342,high winds 66
+343,high winds 67
+344,high winds 73
+345,high winds 76
+346,high winds 80
+347,high winds 82
+348,high winds and wind chill
+349,high winds dust storm
+350,high winds heavy rains
+351,high winds/
+352,high winds/coastal flood
+353,high winds/cold
+354,high winds/flooding
+355,high winds/heavy rain
+356,high winds/snow
+357,highway flooding
+358,hot and dry
+359,hot pattern
+360,hot spell
+361,hot weather
+362,hot/dry pattern
+363,hurricane
+364,hurricane-generated swells
+365,hurricane edouard
+366,hurricane emily
+367,hurricane erin
+368,hurricane felix
+369,hurricane gordon
+370,hurricane opal
+371,hurricane opal/high winds
+372,hurricane/typhoon
+373,hvy rain
+374,hyperthermia/exposure
+375,hypothermia
+376,hypothermia/exposure
+377,ice
+378,ice and snow
+379,ice floes
+380,ice fog
+381,ice jam
+382,ice jam flood (minor
+383,ice jam flooding
+384,ice on road
+385,ice pellets
+386,ice roads
+387,ice storm
+388,ice storm and snow
+389,ice storm/flash flood
+390,ice/snow
+391,ice/strong winds
+392,icestorm/blizzard
+393,icy roads
+394,lack of snow
+395,lake-effect snow
+396,lake effect snow
+397,lake flood
+398,lakeshore flood
+399,landslide
+400,landslide/urban flood
+401,landslides
+402,landslump
+403,landspout
+404,large wall cloud
+405,late-season snowfall
+406,late freeze
+407,late season hail
+408,late season snow
+409,late season snowfall
+410,late snow
+411,light freezing rain
+412,light snow
+413,light snow and sleet
+414,light snow/flurries
+415,light snow/freezing precip
+416,light snowfall
+417,lighting
+418,lightning
+419,lightning  wauseon
+420,lightning and heavy rain
+421,lightning and thunderstorm win
+422,lightning and winds
+423,lightning damage
+424,lightning fire
+425,lightning injury
+426,lightning thunderstorm winds
+427,lightning thunderstorm windss
+428,lightning.
+429,lightning/heavy rain
+430,ligntning
+431,local flash flood
+432,local flood
+433,locally heavy rain
+434,low temperature
+435,low temperature record
+436,low wind chill
+437,major flood
+438,marine accident
+439,marine hail
+440,marine high wind
+441,marine mishap
+442,marine strong wind
+443,marine thunderstorm wind
+444,marine tstm wind
+445,"metro storm, may 26"
+446,microburst
+447,microburst winds
+448,mild and dry pattern
+449,mild pattern
+450,mild/dry pattern
+451,minor flood
+452,minor flooding
+453,mixed precip
+454,mixed precipitation
+455,moderate snow
+456,moderate snowfall
+457,monthly precipitation
+458,monthly rainfall
+459,monthly snowfall
+460,monthly temperature
+461,mountain snows
+462,mud slide
+463,mud slides
+464,mud slides urban flooding
+465,mud/rock slide
+466,mudslide
+467,mudslide/landslide
+468,mudslides
+469,near record snow
+470,no severe weather
+471,non-severe wind damage
+472,non-tstm wind
+473,non severe hail
+474,non tstm wind
+475,none
+476,normal precipitation
+477,northern lights
+478,other
+479,patchy dense fog
+480,patchy ice
+481,prolong cold
+482,prolong cold/snow
+483,prolong warmth
+484,prolonged rain
+485,rain
+486,rain (heavy)
+487,rain and wind
+488,rain damage
+489,rain/snow
+490,rain/wind
+491,rainstorm
+492,rapidly rising water
+493,record  cold
+494,record cold
+495,record cold and high wind
+496,record cold/frost
+497,record cool
+498,record dry month
+499,record dryness
+500,record heat
+501,record heat wave
+502,record high
+503,record high temperature
+504,record high temperatures
+505,record low
+506,record low rainfall
+507,record may snow
+508,record precipitation
+509,record rainfall
+510,record snow
+511,record snow/cold
+512,record snowfall
+513,record temperature
+514,record temperatures
+515,record warm
+516,record warm temps.
+517,record warmth
+518,record winter snow
+519,record/excessive heat
+520,record/excessive rainfall
+521,red flag criteria
+522,red flag fire wx
+523,remnants of floyd
+524,rip current
+525,rip currents
+526,rip currents heavy surf
+527,rip currents/heavy surf
+528,river and stream flood
+529,river flood
+530,river flooding
+531,rock slide
+532,rogue wave
+533,rotating wall cloud
+534,rough seas
+535,rough surf
+536,rural flood
+537,saharan dust
+538,seasonal snowfall
+539,seiche
+540,severe cold
+541,severe thunderstorm
+542,severe thunderstorm winds
+543,severe thunderstorms
+544,severe turbulence
+545,sleet
+546,sleet & freezing rain
+547,sleet storm
+548,sleet/freezing rain
+549,sleet/ice storm
+550,sleet/rain/snow
+551,sleet/snow
+552,small hail
+553,small stream
+554,small stream and
+555,small stream and urban flood
+556,small stream and urban floodin
+557,small stream flood
+558,small stream flooding
+559,small stream urban flood
+560,small stream/urban flood
+561,sml stream fld
+562,smoke
+563,snow
+564,snow- high wind- wind chill
+565,snow accumulation
+566,snow advisory
+567,snow and cold
+568,snow and heavy snow
+569,snow and ice
+570,snow and ice storm
+571,snow and sleet
+572,snow and wind
+573,snow drought
+574,snow freezing rain
+575,snow showers
+576,snow sleet
+577,snow squall
+578,snow squalls
+579,snow/ bitter cold
+580,snow/ ice
+581,snow/blowing snow
+582,snow/cold
+583,snow/freezing rain
+584,snow/heavy snow
+585,snow/high winds
+586,snow/ice
+587,snow/ice storm
+588,snow/rain
+589,snow/rain/sleet
+590,snow/sleet
+591,snow/sleet/freezing rain
+592,snow/sleet/rain
+593,snow\cold
+594,snowfall record
+595,snowmelt flooding
+596,snowstorm
+597,southeast
+598,storm force winds
+599,storm surge
+600,storm surge/tide
+601,stream flooding
+602,street flood
+603,street flooding
+604,strong wind
+605,strong wind gust
+606,strong winds
+607,summary august 10
+608,summary august 11
+609,summary august 17
+610,summary august 2-3
+611,summary august 21
+612,summary august 28
+613,summary august 4
+614,summary august 7
+615,summary august 9
+616,summary jan 17
+617,summary july 23-24
+618,summary june 18-19
+619,summary june 5-6
+620,summary june 6
+621,summary of april 12
+622,summary of april 13
+623,summary of april 21
+624,summary of april 27
+625,summary of april 3rd
+626,summary of august 1
+627,summary of july 11
+628,summary of july 2
+629,summary of july 22
+630,summary of july 26
+631,summary of july 29
+632,summary of july 3
+633,summary of june 10
+634,summary of june 11
+635,summary of june 12
+636,summary of june 13
+637,summary of june 15
+638,summary of june 16
+639,summary of june 18
+640,summary of june 23
+641,summary of june 24
+642,summary of june 3
+643,summary of june 30
+644,summary of june 4
+645,summary of june 6
+646,summary of march 14
+647,summary of march 23
+648,summary of march 24
+649,summary of march 24-25
+650,summary of march 27
+651,summary of march 29
+652,summary of may 10
+653,summary of may 13
+654,summary of may 14
+655,summary of may 22
+656,summary of may 22 am
+657,summary of may 22 pm
+658,summary of may 26 am
+659,summary of may 26 pm
+660,summary of may 31 am
+661,summary of may 31 pm
+662,summary of may 9-10
+663,summary sept. 25-26
+664,summary september 20
+665,summary september 23
+666,summary september 3
+667,summary september 4
+668,summary: nov. 16
+669,summary: nov. 6-7
+670,summary: oct. 20-21
+671,summary: october 31
+672,summary: sept. 18
+673,temperature record
+674,thuderstorm winds
+675,thundeerstorm winds
+676,thunderestorm winds
+677,thundersnow
+678,thundersnow shower
+679,thunderstorm
+680,thunderstorm  winds
+681,thunderstorm damage
+682,thunderstorm damage to
+683,thunderstorm hail
+684,thunderstorm w inds
+685,thunderstorm wind
+686,thunderstorm wind (g40)
+687,thunderstorm wind 50
+688,thunderstorm wind 52
+689,thunderstorm wind 56
+690,thunderstorm wind 59
+691,thunderstorm wind 59 mph
+692,thunderstorm wind 59 mph.
+693,thunderstorm wind 60 mph
+694,thunderstorm wind 65 mph
+695,thunderstorm wind 65mph
+696,thunderstorm wind 69
+697,thunderstorm wind 98 mph
+698,thunderstorm wind g50
+699,thunderstorm wind g51
+700,thunderstorm wind g52
+701,thunderstorm wind g55
+702,thunderstorm wind g60
+703,thunderstorm wind g61
+704,thunderstorm wind trees
+705,thunderstorm wind.
+706,thunderstorm wind/ tree
+707,thunderstorm wind/ trees
+708,thunderstorm wind/awning
+709,thunderstorm wind/hail
+710,thunderstorm wind/lightning
+711,thunderstorm winds
+712,thunderstorm winds      le cen
+713,thunderstorm winds 13
+714,thunderstorm winds 2
+715,thunderstorm winds 50
+716,thunderstorm winds 52
+717,thunderstorm winds 53
+718,thunderstorm winds 60
+719,thunderstorm winds 61
+720,thunderstorm winds 62
+721,thunderstorm winds 63 mph
+722,thunderstorm winds and
+723,thunderstorm winds funnel clou
+724,thunderstorm winds g
+725,thunderstorm winds g60
+726,thunderstorm winds hail
+727,thunderstorm winds heavy rain
+728,thunderstorm winds lightning
+729,thunderstorm winds small strea
+730,thunderstorm winds urban flood
+731,thunderstorm winds.
+732,thunderstorm winds/ flood
+733,thunderstorm winds/ hail
+734,thunderstorm winds/flash flood
+735,thunderstorm winds/flooding
+736,thunderstorm winds/funnel clou
+737,thunderstorm winds/hail
+738,thunderstorm winds/heavy rain
+739,thunderstorm winds53
+740,thunderstorm windshail
+741,thunderstorm windss
+742,thunderstorm wins
+743,thunderstorms
+744,thunderstorms wind
+745,thunderstorms winds
+746,thunderstormw
+747,thunderstormw 50
+748,thunderstormw winds
+749,thunderstormwinds
+750,thunderstrom wind
+751,thunderstrom winds
+752,thundertorm winds
+753,thundertsorm wind
+754,thundestorm winds
+755,thunerstorm winds
+756,tidal flood
+757,tidal flooding
+758,tornado
+759,tornado debris
+760,tornado f0
+761,tornado f1
+762,tornado f2
+763,tornado f3
+764,tornado/waterspout
+765,tornadoes
+766,"tornadoes, tstm wind, hail"
+767,tornados
+768,torndao
+769,torrential rain
+770,torrential rainfall
+771,tropical depression
+772,tropical storm
+773,tropical storm alberto
+774,tropical storm dean
+775,tropical storm gordon
+776,tropical storm jerry
+777,tstm
+778,tstm heavy rain
+779,tstm wind
+780,tstm wind  (g45)
+781,tstm wind (41)
+782,tstm wind (g35)
+783,tstm wind (g40)
+784,tstm wind (g45)
+785,tstm wind 40
+786,tstm wind 45
+787,tstm wind 50
+788,tstm wind 51
+789,tstm wind 52
+790,tstm wind 55
+791,tstm wind 65)
+792,tstm wind and lightning
+793,tstm wind damage
+794,tstm wind g45
+795,tstm wind g58
+796,tstm wind/hail
+797,tstm winds
+798,tstm wnd
+799,tstmw
+800,tsunami
+801,tunderstorm wind
+802,typhoon
+803,unseasonable cold
+804,unseasonably cold
+805,unseasonably cool
+806,unseasonably cool & wet
+807,unseasonably dry
+808,unseasonably hot
+809,unseasonably warm
+810,unseasonably warm & wet
+811,unseasonably warm and dry
+812,unseasonably warm year
+813,unseasonably warm/wet
+814,unseasonably wet
+815,unseasonal low temp
+816,unseasonal rain
+817,unusual warmth
+818,unusual/record warmth
+819,unusually cold
+820,unusually late snow
+821,unusually warm
+822,urban and small
+823,urban and small stream
+824,urban and small stream flood
+825,urban and small stream floodin
+826,urban flood
+827,urban flood landslide
+828,urban flooding
+829,urban floods
+830,urban small
+831,urban small stream flood
+832,urban/small
+833,urban/small flooding
+834,urban/small stream
+835,urban/small stream  flood
+836,urban/small stream flood
+837,urban/small stream flooding
+838,urban/small strm fldg
+839,urban/sml stream fld
+840,urban/sml stream fldg
+841,urban/street flooding
+842,very dry
+843,very warm
+844,vog
+845,volcanic ash
+846,volcanic ash plume
+847,volcanic ashfall
+848,volcanic eruption
+849,wake low wind
+850,wall cloud
+851,wall cloud/funnel cloud
+852,warm dry conditions
+853,warm weather
+854,water spout
+855,waterspout
+856,waterspout-
+857,waterspout-tornado
+858,waterspout funnel cloud
+859,waterspout tornado
+860,waterspout/
+861,waterspout/ tornado
+862,waterspout/tornado
+863,waterspouts
+864,wayterspout
+865,wet micoburst
+866,wet microburst
+867,wet month
+868,wet snow
+869,wet weather
+870,wet year
+871,whirlwind
+872,wild fires
+873,wild/forest fire
+874,wild/forest fires
+875,wildfire
+876,wildfires
+877,wind
+878,wind advisory
+879,wind and wave
+880,wind chill
+881,wind chill/high wind
+882,wind damage
+883,wind gusts
+884,wind storm
+885,wind/hail
+886,winds
+887,winter mix
+888,winter storm
+889,winter storm high winds
+890,winter storm/high wind
+891,winter storm/high winds
+892,winter storms
+893,winter weather
+894,winter weather mix
+895,winter weather/mix
+896,wintery mix
+897,wintry mix
+898,wnd

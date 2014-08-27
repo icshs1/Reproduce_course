@@ -1,0 +1,235 @@
+category table
+Astronomical Low Tide : astronomical, astronomical high tide, astronomical low tide
+Avalanche : avalance, avalanche
+Blizzard : blizzard, blizzard and extreme wind chil blizzard and heavy snow
+           blizzard summary blizzard weather blizzard/freezing rain
+           blizzard/heavy snow            blizzard/high wind blizzard/winter storm
+           blowing snow blowing snow- extreme wind chi blowing snow & extreme wind ch
+           blowing snow/extreme wind chil  ground blizzard
+Coastal Flood : coastal flood, beach erosion/coastal flood, beach erosin, beach erosion, beach flood, below normal precipitation
+                coastal  flooding/erosion coastal erosion,
+                coastal flood                  coastal flooding               coastal flooding/erosion
+                coastal storm                  coastal surge                  coastal/tidal flood
+                coastalflood                   coastalstorm
+                erosion/cstl flood
+Cold/Wind Chill : COLD, bitter wind chill, bitter wind chill temperatures, 
+                cold cold air funnel                cold air funnels               cold air tornado
+                cold and frost                 cold and snow                  cold and wet conditions
+                cold temperature               cold temperatures              cold wave
+                cold weather                   cold wind chill temperatures   cold/wind chill
+                cold/winds                     cool and wet                   cool spell
+                excessive cold  extended cold  extreme cold extreme cold/wind chill
+                extreme wind chill             extreme wind chill/blowing sno
+                extreme wind chills            extreme windchill              extreme windchill temperatures
+                extreme/record cold            low temperature                low temperature record
+		low wind chill   prolong cold  prolong cold/snow
+		record  cold  record cold record cold and high wind  record cold/frost  record cool
+ 
+Debris Flow
+Dense Fog : dense fog
+Dense Smoke : dense smoke
+Drought : driest month, drought
+ drought/excessive heat         drowning                       dry
+ dry conditions                dry hot weather                dry microburst
+ dry microburst 50              dry microburst 53              dry microburst 58
+ dry microburst 61              dry microburst 84              dry microburst winds
+ dry mircoburst winds           dry pattern                dry spell
+ dry weather                   dryness  excessive wetness  excessively dry  lack of snow
+ mild and dry pattern  mild pattern mild/dry pattern
+	record dry month  record dryness
+
+
+Dust Devil : dust devel dust devil dust devil waterspout
+Dust Storm :  blowing dust, dust storm   dust storm/high winds  duststorm
+Excessive Heat : excessive heat excessive heat/drought
+Extreme Cold/Wind Chill
+Flash Flood : flash flood
+              flash flood - heavy rain       flash flood from ice jams      flash flood landslides
+              flash flood winds              flash flood/                   flash flood/ flood
+              flash flood/ street            flash flood/flood              flash flood/heavy rain
+              flash flood/landslide          flash flooding                 flash flooding/flood
+              flash flooding/thunderstorm wi flash floods                   flash floooding
+	      local flash flood  
+
+Flood : breakup flooding
+        flood                        flood & heavy rain             flood flash
+        flood flood/flash             flood watch/                   flood/flash
+        flood/flash flood             flood/flash flooding           flood/flash/flood
+        flood/flashflood              flood/rain/wind                flood/rain/winds
+        flood/river flood             flood/strong wind              flooding
+        flooding/heavy rain           floods                        heavy precipatation/heavy precipitation
+        highway flooding              major flood
+        local flood 		      minor flood                   minor flooding
+        mixed precip
+	mixed precipitation    monthly precipitation
+	river and stream flood  river flood river flooding
+	small stream  small stream and  small stream and urban flood
+	small stream and urban floodin
+	small stream flood  	small stream flooding 	small stream urban flood 	small stream/urban flood
+	sml stream fld stream flooding street flood street flooding 
+        tidal flood tidal flooding
+
+Freezing Fog : fog    fog and cold temperatures  patchy dense fog
+Frost/Freeze : agricultural freeze, damaging freeze, early freeze, early frost, first frost
+	freeze
+	freezing drizzle               freezing drizzle and freezing  freezing fog
+	freezing rain                  freezing rain and sleet        freezing rain and snow
+	freezing rain sleet and        freezing rain sleet and light  freezing rain/sleet
+	freezing rain/snow             freezing spray                 frost
+	frost/freeze                   frost\\freeze  hard freeze late freeze
+	light freezing rain
+Funnel Cloud : funnel
+              funnel cloud                   funnel cloud.                  funnel cloud/hail
+              funnel clouds                  funnels
+	      wall cloud wall cloud/funnel cloud
+Hail : deep hail, hail  hail 0.75  hailstorm hailstorms late season hail small hail
+Heat : extreme heat heat heat drought heat wave heat wave drought
+       heat waves heat/drought heatburst    high temperature record   hot and dry
+       hot pattern                  hot spell
+       hot weather                  hot/dry patter
+       record heat  record heat wave record high  record high temperature record high temperatures 
+	hyperthermia/exposure(일사)       hypothermia hypothermia/exposure
+Heavy Rain : early rain , excessive rain excessive rainfall, extremely wet
+      heavy rain                     heavy rain and flood
+      heavy rain and wind            heavy rain effects             heavy rain/flooding"
+      heavy rain/high surf           heavy rain/lightning           heavy rain/mudslides/flood
+      heavy rain/severe weather      heavy rain/small stream urban"  heavy rain/snow
+      heavy rain/urban flood         heavy rain/wind                heavy rain; urban flood winds
+      heavy rainfall                 heavy rains                    heavy rains/flooding
+      heavy seas                     heavy shower                   heavy showers
+      hvy rain                       locally heavy rain		monthly rainfall prolonged rain
+      rain  rain (heavy) rain and wind rain damage rain/snow rain/wind rainstorm
+      torrential rain torrential rainfall
+
+Heavy Snow : accumulated snowfall, drifting snow, early snow, early snowfall, excessive snow, first snow 
+            heavy lake snow
+            heavy snow                     heavy snow-squalls             heavy snow   freezing rain
+            heavy snow & ice               heavy snow and                 heavy snow and high winds
+            heavy snow and ice           heavy snow and ice storm       heavy snow and strong winds
+            heavy snow andblowing snow     heavy snow shower              heavy snow squalls
+            heavy snow/blizzard            heavy snow/blizzard/avalanche  heavy snow/blowing snow
+            heavy snow/freezing rain       heavy snow/high                heavy snow/high wind
+            heavy snow/high winds          heavy snow/high winds & flood  heavy snow/high winds/freezing
+            heavy snow/ice                heavy snow/ice storm           heavy snow/sleet
+            heavy snow/squalls             heavy snow/wind                heavy snow/winter storm
+            heavy snowpack  heavy wet snow   late-season snowfall   late season snow
+            late season snowfall
+	    light snow light snow and sleet  light snow/flurries  light snow/freezing precip light snowfall
+	    moderate snow moderate snowfall  monthly snowfall  mountain snows near record snow
+	    snow snow- high wind- wind chill snow accumulation snow advisory snow and cold snow and heavy snow
+	    snow and ice snow and ice storm  snow and sleet snow and wind snow drought snow freezing rain
+		snow showers snow sleet snow squall snow squalls snow/ bitter cold  snow/ ice snow/blowing snow
+	snow/cold snow/freezing rain  snow/heavy snow snow/high winds snow/ice snow/ice storm snow/rain
+	snow/rain/sleet snow/sleet snow/sleet/freezing rain snow/sleet/rain snow\cold
+	snowfall record snowmelt flooding snowstorm
+         thundersnow thundersnow shower
+
+High Surf : high surf advisory, blow-out tide, blow-out tides hazardous surf
+            heavy surf                     heavy surf and wind
+            heavy surf coastal flooding    heavy surf/high surf  heavy swells high   high  swells
+            high seas  high surf
+            high surf advisories           high surf advisory             high swells
+            high waves     high tides                     high water
+
+High Wind : high  winds
+Hurricane/Typhoon :   hurricane , typhoon
+          hurricane-generated swells     hurricane edouard              hurricane emily
+          hurricane erin                 hurricane felix                hurricane gordon
+          hurricane opal                 hurricane opal/high winds      hurricane/typhoon
+Ice Storm : falling snow/ice, glaze glaze ice  glaze/ice storm
+      ice                            ice and snow
+      ice floes                      ice fog                        ice jam
+      ice jam flood (minor           ice jam flooding               ice on road
+      ice pellets                    ice roads                      ice storm
+      ice storm and snow             ice storm/flash flood          ice/snow
+      ice/strong winds               icestorm/blizzard             icy roads
+       patchy ice  black ice
+Lakeshore Flood : lake flood         lakeshore flood
+
+Lake-Effect Snow : lake-effect snow lake effect snow
+Lightning : lightning
+	    lighting  lightning lightning  wauseon lightning and heavy rain lightning and thunderstorm win
+            lightning and winds lightning damage lightning fire lightning injury lightning thunderstorm winds
+	    lightning thunderstorm windss lightning. lightning/heavy rain ligntning
+Marine Hail : marine hail
+Marine High Wind : marine high wind, marine accident marine mishap
+Marine Strong Wind : marine strong wind
+Marine Thunderstorm Wind : marine thunderstorm wind    marine tstm wind
+Rip Current (이안류) : rip current rip currents rip currents heavy surf rip currents/heavy surf
+
+Seiche : 수면진동 seiche
+
+Sleet 진눈깨비 sleet  sleet & freezing rain sleet storm sleet/freezing rain sleet/ice storm sleet/rain/snow sleet/snow
+Storm Tide  : metro storm storm surge/tide
+Strong Wind : microburst microburst winds  storm force winds storm surge 
+		strong wind strong wind gust strong winds 
+Thunderstorm Wind : gusty lake wind
+                    gusty thunderstorm wind        gusty thunderstorm winds       gusty wind
+                    gusty wind/hail                gusty wind/hvy rain            gusty wind/rain
+                    gusty winds severe thunderstorm  severe thunderstorm winds severe thunderstorms
+			severe turbulence
+	            thuderstorm winds thundeerstorm winds thundeerstorm winds
+  	            thunderstorms  thunderstormw, tstm wind
+
+
+
+ 
+Tornado : tornado  tornado debris tornado f0 tornado f1 tornado f2 tornado f3 tornado/waterspout tornadoes
+		tornadoes, , hail  tornados torndao
+
+Tropical Depression : 열대성 저기압 tropical depression,
+Tropical Storm  :  
+		tropical storm tropical storm alberto tropical storm dean tropical storm gordon tropical storm jerry
+
+Tsunami : tsunami
+Volcanic Ash : volcanic ash volcanic ash plume volcanic ashfall volcanic eruption
+Waterspout (용오름): waterspout  gustnado   gustnado and  heavy mix   rapidly rising water
+		water spout  waterspout waterspout-  waterspout-tornado  waterspout funnel cloud
+		waterspout tornado  waterspout/ waterspout/ tornado  waterspout/tornado waterspouts
+		wayterspout
+
+Wildfire : brush fire, brush fires, forest fires grass fires
+           wild fires  wild/forest fire  wild/forest fires  wildfire wildfires
+Winter Storm : winter storm  winter storm high winds winter storm/high wind winter storm/high winds
+   	       winter storms 
+
+Winter Weather : winter weather winter weather mix winter weather/mix wintery mix
+		 wintry mix
+
+
+
+Slide : landslide(산사태) landslide/urban flood  landslump landspout
+	mud slide mud slides  mud slides urban flooding mud/rock slide
+	mudslide mudslide/landslide mudslides rock slide
+
+Wind : tstm wind, wind or tstm
+	wind wind advisory  wind and wave  wind chill  wind chill/high wind  wind damage  wind gusts
+	wind storm  wind/hail  winds wnd
+         gradient wind, gradient winds
+
+
+Other: 
+abnormal warmth, abnormally dry, abnormally wet
+apache county, dam break, dam failure, downburst, downburst winds
+excessive, excessive precipitation,  ,
+monthly temperature
+no severe weather
+non-severe wind damage
+non-tstm wind
+non severe hail
+non tstm wind
+none
+normal precipitation
+northern lights
+other
+prolong warmth
+red flag criteria
+red flag fire wx
+remnants of floyd
+smoke
+southeast
+summary august 10
+summary august 11
+summary august 17
+temperature record
+

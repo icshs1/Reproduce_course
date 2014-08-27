@@ -1,0 +1,13 @@
+htotal<-CleanData
+htotal$EVTYPE<-as.factor(tolower(CleanData$EVTYPE))
+testData<-mutate(htotal,EventType="OTHERS",Used=FALSE)
+Classfy_EVTYPE<-function(pattern,Event_Name, inputdata) {
+  temp<-grepl(pattern, inputdata[,2]) & inputdata[,10]==FALSE
+  inputdata[temp,9]<-Event_Name
+  inputdata[temp,10]<-TRUE
+  return(inputdata)
+}
+testData<-Classfy_EVTYPE("astronomical","Astronomical Low Tide",testData)
+testData<-Classfy_EVTYPE("avalance|avalanche","Avalanche",testData)
+testData$EventType<-as.factor(testData$EventType)
+-----------------------------------------------------------------------

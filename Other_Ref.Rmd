@@ -1,0 +1,19 @@
+---
+title: "Reproducible Research: Peer Assessment 1"
+author: "David Cline"
+date: "Saturday, August 16, 2014"
+output: html_document
+---
+
+This is my report document for Peer Assessment 1 in the Reproducible Research
+course.  In it, I provide answers, in the form and figures and data, to
+the questions in the assignment.  I also include the R code that pro-
+duces the answers.
+
+
+## Loading and preprocessing the data
+The data for analysis, from a personal activity monitoring device, are records
+of steps taken (measured at 5-minute intervals) by an individual throughout
+each day during the 61-day period covering October and November 2012.  The
+raw data are in a zipped CSV file in the working directory.  They are
+accessed and read via the following code:

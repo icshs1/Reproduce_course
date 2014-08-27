@@ -1,0 +1,112 @@
+---
+title: "Weather Event Analysis at USA." 
+author: "HyunSik Shim" 
+date: "Friday, August 22, 2014" 
+output: html_document 
+---
+
+ 
+This is my report document for Peer Assessment 2 in the Reproducible Research course.  In it, I provide answers, in the form and figures and data, to 
+the questions in the assignment.  
+
+
+I also include the R code that produces the answers. 
+Storms and other severe weather events can cause both *public health and economic problems* for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
+
+
+I will process calculate  public health and economic problems cuased by weather event using **U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database**.
+
+
+## System Setting and Data Processing
+
+1. Before data processing, we have to set system according to OS and memory and install packages.
+
+```{r default}
+## We have to set memeory size as 4GB for Windows 32 bit system.
+memory.limit(size = 4080)
+library("plyr")
+## I have to set locale as English for processing data 
+## because errror reading csv file in Korean.
+Sys.setlocale("LC_ALL", locale = "English_United States")
+```
+
+2. Data read and Extract meaningful data.
+
+```{r cache=TRUE}
+StormData<-read.csv("repdata-data-StormData.csv.bz2",header=TRUE,stringsAsFactors = TRUE)
+CleanData <- StormData[,c("STATE","EVTYPE","FATALITIES","INJURIES","PROPDMG","PROPDMGEXP","CROPDMG","CROPDMGEXP")]
+str(CleanData)
+```
+
+3. To solve 2 main questions, I make new 3 variables for public health and economic impacts 
+
+```{r calucalte_impact,cache=TRUE}
+TinyData<-mutate(CleanData,Total_Fatalities=FATALITIES+INJURIES)
+
+##fucntion for calculating damage using DMG and DMGEXP variable
+## we will use PROPDMG and CROPDMG
+damage_measure<-function(data_dmg,data_exp) {
+  Total_value=data_dmg*ifelse(data_exp=="H"|data_exp=="h",100,0)
+  Total_value=Total_value+data_dmg*ifelse(data_exp=="K"| data_exp=="k",1000,0)
+  Total_value=Total_value+data_dmg*ifelse(data_exp=="M"| data_exp=="m",1000000,0)
+  Total_value=Total_value+data_dmg*ifelse(data_exp=="B"| data_exp=="b",1000000000,0)
+  
+  Total_value=Total_value+ifelse(data_exp=="1",data_dmg*1000+100,0)
+  Total_value=Total_value+ifelse(data_exp=="2",data_dmg*1000+200,0)
+  Total_value=Total_value+ifelse(data_exp=="3",data_dmg*1000+300,0)
+  Total_value=Total_value+ifelse(data_exp=="4",data_dmg*1000+400,0)
+  Total_value=Total_value+ifelse(data_exp=="5",data_dmg*1000+500,0)
+  Total_value=Total_value+ifelse(data_exp=="6",data_dmg*1000+600,0)
+  Total_value=Total_value+ifelse(data_exp=="7",data_dmg*1000+700,0)
+  Total_value=Total_value+ifelse(data_exp=="8",data_dmg*1000+800,0)
+  Total_value=Total_value+ifelse(data_exp=="9",data_dmg*1000+900,0)
+  Total_value=Total_value+ifelse(data_exp=="?" |data_exp=="+",data_dmg,0)
+  Toal_value=Total_value+ifelse(data_exp=="" |data_exp=="-",data_dmg,0)  
+  return(Total_value)
+  
+}
+
+prop_damage<-damage_measure(TinyData$PROPDMG,TinyData$PROPDMGEXP)
+crop_damage<-damage_measure(TinyData$CROPDMG,TinyData$CROPDMGEXP)
+
+TinyData<-cbind(TinyData,as.data.frame(prop_damage))
+TinyData<-cbind(TinyData,as.data.frame(crop_damage))
+str(TinyData)
+```
+
+
+## Main Questions and Results 
+
+1. Across the United States, which types of events are most harmful with respect to population health?
+
+```{r first_problem}
+Population_health<-ddply(TinyData,.(EVTYPE),summarise, Total=sum(Total_Fatalities))
+Max_Value<-Population_health[which.max(Population_health$Total),1]
+abstract_data<-head(arrange(Population_health,desc(Total),EVTYPE),10)
+abstract_data
+barplot(abstract_data$Total,col=rainbow(10),main="Top 10 Causes of Weather Event Deaths and Injuries",ylab="Deaths", legend=abstract_data$EVTYPE)
+
+Population_health_injuries<-ddply(TinyData,.(EVTYPE),summarise, Total=sum(INJURIES))
+abstract_data_injuries<-head(arrange(Population_health_injuries,desc(Total),EVTYPE),10)
+abstract_data_injuries
+barplot(abstract_data_injuries$Total,col=rainbow(10),main="Top 10 Causes of Weather Event Injuries",ylab="Injuries", legend=abstract_data_injuries$EVTYPE)
+```
+
+- `r Max_Value` are most harmful with respect to population health.
+- Total `r abstract_data$Total[1]` people are killed or wounded by `r Max_Value`. 
+
+
+2. Across the United States, which types of events have the greatest economic consequences?
+
+
+```{r second_problem}
+damages<-ddply(TinyData,.(EVTYPE),summarise, Total_damage=sum(prop_damage)+sum(crop_damage))
+Max_Value_damage<-damages[which.max(damages$Total_damage),1]
+abstract_data_second<-head(arrange(damages,desc(Total_damage),EVTYPE),10)
+abstract_data_second
+barplot(abstract_data_second$Total_damage/1e9,col=rainbow(10),main="Top 10 economic impact by events",ylab="billion$", legend=abstract_data_second$EVTYPE)
+```
+
+- `r Max_Value_damage` are the greatest economic consequences across the United States.
+- The United States lost up to `r abstract_data_second$Total_damag[1]/1e9` billion$ by `r tolower(Max_Value_damage)`.
+
